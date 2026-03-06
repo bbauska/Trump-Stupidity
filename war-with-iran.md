@@ -1,6 +1,6 @@
-Transcript
-American Adventuris in Iran
-March 2nd, 2026: (0:12:07)
+# Transcript
+## American Adventuris in Iran
+### March 2nd, 2026: (0:12:07)
 The Economist's Middle East correspondent, Greg Carlstrom, noted that Trump appears to be workshopping 
 the causes for his attacks on Iran and his goals for the war by talking to journalists.
 
